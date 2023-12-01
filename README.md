@@ -1,6 +1,7 @@
 # Issue TODO's:
 1. Start with watching some introduction video's/tutorials on [their Youtube](https://www.youtube.com/@ONNXRuntime)
-2. Read into ONXX until I get a general idea about it's capabilities. Then start the documentation
+2. Read introduction of documentation of ONXX until I understand the general concept and reply to this issue if general documentation needs to be written.
+3. Find out where that AI client side run on Node.js and create a issue for it.
 
 
 <p align="center"><img width="50%" src="docs/images/ONNX_Runtime_logo_dark.png" /></p>
